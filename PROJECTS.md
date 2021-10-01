@@ -4,7 +4,7 @@
 Projects created by OSSU's students for each course of our [**Computer Science**](https://github.com/ossu/computer-science) curriculum.
 
 For more project ideas, check the [Mega Project List](https://github.com/karan/Projects).
-
+>This project idea was taken from a YouTube Channel and is right now probably the best course available on internet.
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Programming](#programming)
 - [Math](#math)
